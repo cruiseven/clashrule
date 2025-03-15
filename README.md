@@ -1,6 +1,7 @@
 # clashrule
 my openclash rule
 
+
 clash规则
 DOMAIN-SUFFIX：域名后缀匹配
 DOMAIN：域名匹配
