@@ -1,0 +1,2 @@
+# clashrule
+my openclash rule
